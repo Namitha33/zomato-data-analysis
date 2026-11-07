@@ -1,14 +1,14 @@
 # zomato-data-analysis
 
-Objective
+#Objective
 To perform a deep-dive business analysis on Zomato restaurant data by defining key KPIs, analyzing restaurant trends, and building an interactive dashboard.
 
-Tools Used
+#Tools Used
 Power BI
 SQL
 Excel
 
-KPIs
+#KPIs
 Total Restaurants
 Average Rating
 Average Cost for 2
